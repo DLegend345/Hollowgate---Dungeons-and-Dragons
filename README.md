@@ -1,4 +1,4 @@
-# Hollowgate---D-D-adventure
+# Hollowgate - Dungeons and Dragons (5 chapters)
 Dungeons and Dragons adventure in command prompt, with grid based movement, bosses, classes, and biomes. 
 A one-shot ASCII dungeon crawler for the Windows Command Prompt.
 
